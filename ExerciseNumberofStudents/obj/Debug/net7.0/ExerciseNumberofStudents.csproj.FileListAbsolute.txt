@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\bin\Debug\net7.0\ExerciseNumberofStudents.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\bin\Debug\net7.0\ExerciseNumberofStudents.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\bin\Debug\net7.0\ExerciseNumberofStudents.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\bin\Debug\net7.0\ExerciseNumberofStudents.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\bin\Debug\net7.0\ExerciseNumberofStudents.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\refint\ExerciseNumberofStudents.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ExerciseNumberofStudents.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseNumberofStudents\ExerciseNumberofStudents\obj\Debug\net7.0\ref\ExerciseNumberofStudents.dll
